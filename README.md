@@ -1,1 +1,1 @@
-# CMPE 172 - Lab #10 - DevOps CI/CD
+# spring-gumball ci/cd example
